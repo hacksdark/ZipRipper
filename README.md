@@ -6,6 +6,9 @@
 </p>
 
 **Credit To:**<br>
+
+My Telegram: https://t.me/hacksdark
+
 JohnTheRipper - <a href="https://github.com/openwall/john">https://github.com/openwall/john</a><br>
 cyclone_hk Wordlist(Hosted by Weakpass) - <a href="https://github.com/cyclone-github/wordlist">https://github.com/cyclone-github/wordlist</a><br>
 7zip - <a href="https://www.7-zip.org/">https://www.7-zip.org/</a><br>
